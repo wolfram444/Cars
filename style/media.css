@@ -1,0 +1,309 @@
+
+
+@media(max-width:1400px){
+   .main_global-right img{
+    width: 100%;
+   }
+
+   .main_global-con{
+    flex-wrap: wrap;
+    justify-content: center;
+   }
+
+   .main_about-item img{
+    width: 100%;
+    margin-bottom: 1rem;
+    /* height: 100%; */
+   }
+
+   .main_about-item{
+    flex-wrap: wrap;
+    align-items: center;
+   }
+
+   .main-service-items{
+    flex-wrap: wrap;
+    justify-content: space-around;
+   }
+
+   .main_benz__items{
+    flex-wrap: wrap;
+    justify-content: space-around;
+   }
+
+   .main_benz__item:nth-child(3){
+    margin-top: 25px;
+   }
+
+   .main_benz-img img{
+    width: 800px !important;
+   }
+
+   .main_group-items{
+    flex-direction: column;
+   }
+
+.main_group-item:nth-child(4){
+    margin-top: 36px;
+}
+
+
+
+.main_group-items{
+    align-self: flex-end;
+}
+
+   .main_service_item:nth-child(4){
+    margin-top: 25px;
+   }
+
+   .one{
+align-self: flex-end;
+   }
+
+   .two{
+    align-self: flex-end;
+   }
+
+
+.nav_con{
+  padding-left:15px ;
+    padding-right:15px ;  
+}
+}
+
+
+
+@media(max-width:1200px){
+    .main_benz-img img{
+        margin: 0;
+        margin-top: 2rem;
+    }
+
+    .main_logo ul{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .nav_con{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .header_ul-2{
+        margin-top: 15px;
+    }
+
+    .main_input-con{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .nav_con img{
+        margin-right: 1rem;
+    }
+ 
+    .main-input-left{
+        margin-bottom: 1.5rem;
+    }
+
+    .main_service-p2{
+        margin-bottom: 1.5rem;
+    }
+    
+}
+@media(max-width:992px){
+    .main_global-footer-2 ul{
+        flex-wrap: wrap;
+        justify-content:center;
+    }
+
+    .main_service_item:first-child{
+        margin-bottom: 25px;
+    }
+
+    .main_benz__item:first-child{
+        margin-bottom: 25px;
+    }
+
+.main_global-right-p{
+    margin-left: 0;
+}
+}
+@media(max-width:768px){
+    .main_benz-img img{
+        width: 700px !important;
+    }
+
+    .main_global-div1{
+        margin: 0;
+    }
+
+    .nav_con img{
+        
+        margin-bottom: 1rem;
+    }
+
+    .footer_top{
+        flex-wrap: wrap;
+    }
+
+    .footer_top-right{
+        order: -9;
+        margin-bottom: 1.5rem;
+    }
+
+    .footer_top-left h2{
+        margin-bottom: 1rem;
+    }
+
+    .footer_center{
+        flex-wrap: wrap;
+    }
+
+    .footer_center-left{
+        margin-top: 1rem;
+    }
+
+    .footer_bottom ul{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .footer_center form{
+        max-width: 579px;
+    }
+
+    .footer_center input{
+        max-width: 579px;
+    } 
+}
+
+@media(max-width:700){
+    .main_benz-img img{
+        width: 550px !important;
+    }
+}
+@media(max-width:576px){
+    .main_benz-img img{
+        width: 500px !important;
+    }
+
+    .main_group-item{
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .main_group-item div{
+        margin: 0;
+    }
+
+    .main_group-item img{
+        margin-bottom: 1rem;
+    }
+
+    .main_benz-con{
+        flex-wrap: wrap;
+    }
+
+    .main_benz-right p{
+        margin-top: 1.5rem;
+    }
+
+    .main_global-div2{
+        margin-left: 0;
+    }
+
+    .main_global-div1{
+        margin-right: 15px;
+    }
+    
+}
+
+@media(max-width:500px){
+    .main_benz-img img{
+        width: 380px !important;
+    }
+}
+
+
+@media(max-width:410px){
+    .header_ul{
+        flex-wrap: wrap;
+        margin: 10px 0;
+        justify-content: center;
+    }
+
+    .header_ul-2{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .header_ul li:nth-child(3){
+        margin: 0; 
+    }
+
+    .main_global-div1 {
+        margin-right: 51px;
+    }
+
+    .main_global-div2 {
+        margin: 0 46px 0 4px;}
+
+        .main_global-div3{
+            margin-top:15px ;
+            margin-bottom:15px ;
+        }
+}
+
+@media(max-width:390px){
+    .main_global-left h2{
+        font-size: 85px;
+    }
+    
+    .main_service h3{
+        font-size: 63px;
+    }
+    
+    .main_group h3{
+        font-size: 57px;
+    }
+    .header_ul-2_link_2{
+        margin-top: 1rem;
+    }
+
+    .main-input-left p{
+        font-size: 9px;
+    }
+
+}
+
+@media(max-width:364px){
+   .hadader_li-4{
+    margin-left: 20px; 
+
+} 
+
+.main_benz-img img{
+    width: 325px !important;
+}
+.main_global-footer-1{
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.main_global-footer-1 a:nth-child(1){
+    border-top-right-radius:11px
+}
+
+.main_global-footer-1 a:nth-child(2){
+border-radius: 1px;
+}
+
+.main_global-footer {
+    margin-top: -70px;
+}
+
+
+}
